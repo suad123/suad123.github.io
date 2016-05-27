@@ -1,5 +1,5 @@
-p (
-
-    color: red ;
-	
-)
+p {
+				background-color: silver;
+				color: white;
+				padding: 20px;
+				font-family: Arial, Verdana, sans-serif;}
