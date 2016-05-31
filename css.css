@@ -2,12 +2,36 @@ body {
     background-image: url("/images/drinks.jpg");
     background-color: #cccccc;
 }
-img {
-    opacity: 0.4;
-    filter: alpha(opacity=40); /* For IE8 and earlier */
+
 }
 h1 {
     text-align: center;
     font-size: 72px;
 	text-color:
 }
+nav ul {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 50px;
+  background-color: #dddddd;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  background-color: #dddddd;
+}
+
+nav ul li a:hover {
+  background-color: purple;
+  color: white;
