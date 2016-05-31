@@ -1,9 +1,36 @@
-body {
-				background-color: rgb(200,200,200);
-				color: white;
-				padding: 20px;
-				font-family: Arial, Verdana, sans-serif;}
+p {
+	color: red;
+}
 
-				background-color: white;
-				color: rgb(100,100,90);
-				padding: inherit;}
+nav ul {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 50px;
+  background-color: #dddddd;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  background-color: #dddddd;
+}
+
+nav ul li a:hover {
+  background-color: purple;
+  color: white;
+}
+
+h1 {
+	display: block;
+	margin: 50px;
+}
