@@ -8,9 +8,9 @@ h1 {
     font-size: 72px;
 	text-color: white;
 }
-p {
+p.one {
     border: 1px solid red;
-    background-color:silver;
+    background-color: yellow;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
