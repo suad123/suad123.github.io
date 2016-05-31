@@ -2,7 +2,12 @@ body {
     background-image: url("/images/drinks.jpg");
     background-color: #cccccc;
 }
+img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
 h1 {
     text-align: center;
     font-size: 72px;
+	text-color:
 }
