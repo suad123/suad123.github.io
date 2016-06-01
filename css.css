@@ -12,7 +12,7 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				width: 1500px;
 				margin: 20px auto 20px auto;
 				border: 2px solid #000000;
-			    background-color: #ffffff;}
+			    background-image: url("../images/brg.png);}
 			    h1 {
 				 font-size: 72px;
 				 text-align: center;}
