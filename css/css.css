@@ -41,10 +41,10 @@ body {
 	nav li {
 		display: inline;
 		margin-right: 40px;}
-		li a {
-			color: #ffffff;}
-		li a:hover, nav li a.current {
-				color: #000000;}
-			a {text-decoration: none;}
+	nav li a {
+		color: #ffffff;}
+	nav li a:hover, nav li a.current {
+		color: #000000;}
+		a {text-decoration: none;}
  
 			
