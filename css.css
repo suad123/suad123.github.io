@@ -49,4 +49,6 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				color: #ffffff;}
 			nav li a:hover, nav li a.current {
 				color: #000000;}
+				a {text-decoration: none;}
+ 
 			
