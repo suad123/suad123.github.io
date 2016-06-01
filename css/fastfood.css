@@ -41,9 +41,9 @@ body {
 	nav li {
 		display: inline;
 		margin-right: 40px;}
-		li a {
+	nav	li a {
 			color: #ffffff;}
-		li a:hover, nav li a.current {
+	nav	li a:hover, nav li a.current {
 				color: #000000;}
 		 {text-decoration: none;}
  
