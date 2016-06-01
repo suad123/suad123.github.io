@@ -8,7 +8,7 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				font-family: Georgia, Times, serif;
 				line-height: 1.4em;
 				margin: 0px;}
-			.wrapper {
+			.header{
 				width: 940px;
 				margin: 20px auto 20px auto;
 				border: 2px solid #000000;
@@ -43,9 +43,9 @@ header, section, footer, aside, nav, article, figure, figcaption {
 			nav li {
 				display: inline;
 				margin-right: 40px;}
-			nav li a {
+nav li a {
 				color: #ffffff;}
-			nav li a:hover, nav li a.current {
+nav li a:hover, nav li a.current {
 				color: #000000;}
 				a {text-decoration: none;}
  
