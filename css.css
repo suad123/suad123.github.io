@@ -14,7 +14,7 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				border: 2px solid #000000;
 			    background-color: #ffffff;}
 			    h1 {
-				  text-align: right;
+				  text-align: center;
 				 width: 20pxpx;
 				 height: 130px;
 				 margin: 100px,100px,1000pxpx,1000pxpx;}
