@@ -45,6 +45,6 @@ body {
 			color: #ffffff;}
 		li a:hover, nav li a.current {
 				color: #000000;}
-		 {text-decoration: none;}
+			a {text-decoration: none;}
  
 			
