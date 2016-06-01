@@ -33,7 +33,7 @@ header, section, footer, aside, nav, article, figure, figcaption {
 			nav li a {
 				color: #ffffff;}
 			nav li a:hover, nav li a.current {
-				color: #000000;}
+				color: #ffffff;}
 		
 			nav, footer {
 				clear: both;
