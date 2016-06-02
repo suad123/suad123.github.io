@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-header, section, footer, aside, nav, article, figure, figcaption {
-				display: block;}
+
 			body {
 				color: #666666;
 				background-color: #f9f8f6;
-				background-image: url("images/drinks.jpg");
+				background-image: url("images/main.jpg");
 				background-position: center;
 				font-family: Georgia, Times, serif;
 				line-height: 1.4em;
@@ -79,10 +77,10 @@ header, section, footer, aside, nav, article, figure, figcaption {
 			aside h2 {
 				padding: 30px 0px 10px 0px;
 				color: #de6581;}
-			footer {
+footer {
 				font-size: 80%;
 				padding: 7px 0px 0px 20px;}
-=======
+
 body {
 	color: #666666;
 	background-color: #f9f8f6;
@@ -155,9 +153,4 @@ p{
 	font-family: Georgia, Times, serif;
 	font-size: 18px;
 	color: grey;}
-	
 
-	
- 
-			
->>>>>>> origin/master
