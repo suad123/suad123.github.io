@@ -8,9 +8,6 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				font-family: Georgia, Times, serif;
 				line-height: 1.4em;
 				margin: 0px;}
-			header {
-				height: 160px;
-				background-image: url("images/header.jpg");}
 			.header{
 				background-color #F4F8ED;
 				width: 1500px;
