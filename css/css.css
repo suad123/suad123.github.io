@@ -1,6 +1,7 @@
 header, section, footer, aside, nav, article, figure, figcaption {
 				display: block;}
 body {
+	background-color: #ffffff
 	background-image: url("images/drinks.jpg");
 	background-position: center;
 	font-family: Georgia, Times, serif;
