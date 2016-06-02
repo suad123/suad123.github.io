@@ -25,7 +25,11 @@ header, section, footer, aside, nav, article, figure, figcaption {
 			h2{
 				font-size: 46px;
 				font-family: Georgia, Times, serif;
-				color: black;
+			    color: black;}
+			h3{
+				font-size: 24px;
+				font-family: Georgia, Times, serif;
+			    color: black;}
 			}
 			nav ul {
 				margin: 0px;
