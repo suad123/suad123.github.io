@@ -20,10 +20,12 @@ clear: both;
 color: #ffffff;
 background-color: #aeaca8;
 height: 30px;}
+
 h2{
 font-size: 46px;
 font-family: Georgia, Times, serif;
 color: black;}
+
 h3{
 font-size: 24px;
 font-family: Georgia, Times, serif;
@@ -32,12 +34,15 @@ color: black;}
 nav ul {
 margin: 0px;
 padding: 5px 0px 5px 30px;}
+
 nav li {
 display: inline;
 margin-right: 40px;
 text-decoration: none;}
+
 nav li a {
 color: #ffffff;}
+
 nav li a:hover, nav li a.current {
 color: #ffffff;}
 
@@ -46,12 +51,15 @@ clear: both;
 color: #ffffff;
 background-color: #aeaca8;
 height: 30px;}
+
 nav ul {
 margin: 0px;
 padding: 5px 0px 5px 30px;}
+
 nav li {
 display: inline;
 margin-right: 40px;}
+
 nav li a {
 	color: #ffffff;}
 			
