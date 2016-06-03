@@ -15,13 +15,7 @@ body {
 h1 {
 font-size: 72px;
 text-align: center;
-color: grey;}
-
-nav, footer {
-clear: both;
-color: #ffffff;
-background-color: #aeaca8;
-height: 30px;}
+color: #aeaca8;}
 
 h2{
 font-size: 46px;
@@ -48,11 +42,6 @@ color: #ffffff;}
 nav li a:hover, nav li a.current {
 color: #ffffff;}
 
-nav, footer {
-clear: both;
-color: #ffffff;
-background-color: E47112;
-height: 30px;}
 
 nav ul {
 margin: 0px;
