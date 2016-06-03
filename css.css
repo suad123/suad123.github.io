@@ -11,12 +11,12 @@ body {
 	width: 1500px;
 	margin: 20px auto 20px auto;
 	border: 2px solid #000000;
-	background-color: #F4F8ED;}
+	background-color: #4D0404;}
 	
 h1 {
 font-size: 72px;
 text-align: center;
-color: #4D0404;}
+color: #000000;}
 
 nav, footer {
 clear: both;
